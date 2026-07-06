@@ -1,0 +1,4 @@
+model,val_loss,raw_val_mae
+state_only_bc,0.1690840458869934,0.05331454
+image_state_bc,0.1471789199113845,0.058578923
+task_conditioned_bc,0.1370059862732887,0.05425802
