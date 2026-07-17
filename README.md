@@ -1,6 +1,6 @@
-# Mini Imitation Learning Robot Policy
+# Mini Behavior cloning Robot Policy
 
-I built a small imitation learning pipeline for robot policy learning using LeRobot data.
+I built a small robot policy learning using LeRobot data (specifically the Aloha cube dataset).
 
 The goal I had with this project was to understand how policies are trained from robot demonstrations and how different policy inputs and action outputs affect action prediction. For me this was just a small intro project to demonstrate foundational knowledge
 
